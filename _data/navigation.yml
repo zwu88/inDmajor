@@ -19,8 +19,8 @@ en: &DEFAULT_EN
       section: about
     - title: "Timeline"
       section: timeline
-    - title: "Publications"
-      section: team
+    # - title: "Publications"
+    #   section: team
     - title: "Contact"
       section: contact
     # - title: "Theme Source"
