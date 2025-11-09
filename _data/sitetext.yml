@@ -12,13 +12,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "In the interplay of science and music"
+    title: "In the Interplay of String and Wind"
     text: Life Composes
     button: For Resonance
     buttonlink: "#services"
 
   services:
-    title: "Research Interests"
+    title: "Music Professions"
     text: "Explores how modern machine learning can accelerate scientific discovery across scales."
     section: services
     list:
