@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Research Interests"
+    - title: "Music Professions"
       section: services
-    - title: "Projects"
+    - title: "Groups"
       section: portfolio
     - title: "About"
       section: about

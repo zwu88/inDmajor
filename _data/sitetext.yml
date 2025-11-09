@@ -12,47 +12,44 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "In the Interplay of String and Wind"
+    title: "In the interplay of string and wind"
     text: Life Composes
     button: For Resonance
     buttonlink: "#services"
 
   services:
     title: "Music Professions"
-    text: "Explores how modern machine learning can accelerate scientific discovery across scales."
+    text: "Forte, Piano, Maestoso, and Sostinudo"
     section: services
     list:
-      - title: "Scientific Machine Learning"
+      - title: "Orchestra Conductor"
         icon: fas fa-brain
-        desc: |-
-          <p class="text-left">
-            Designing intelligent transformer-based models and physics-informed frameworks that learn physical systems naturally (e.g. <strong>operator learning</strong>).
-          </p>
+        
   
-      - title: "Quantum"
+      - title: "Chorus Conductor"
         icon: fas fa-atom
         desc: |-
           <p class="text-left">
-            Investigating mathematical formalisms in <strong>relativistic Quantum Field Theory</strong> and interpretations of quantum mechanics in fundamental physics.
+            .
           </p>
   
-      - title: "Computational Biology"
+      - title: "Pianist"
         icon: fas fa-dna
         desc: |-
           <p class="text-left">
-            Building <strong>genomic large-language models</strong> and graph neural networks to represent and process high-dimensional biological data.
+            111.
           </p>
 
   portfolio:
-    title: "Projects"
-    text: "Thought knows no rest note, and research never reaches its final bar."
+    title: "Musical Groups"
+    text: "Thought knows no rest note, and passion never reaches its final bar."
     section: portfolio
-    closebutton: "Close Project"
+    closebutton: "Close Group"
 
 
   about:
     title: "About Me"
-    text: "Zhikai (Zaki) Wu"
+    text: "Zhikai Wu"
     body: |
       <style>
         .about-text {
