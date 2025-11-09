@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Music Professions"
+    title: "Musical Career"
     text: "Forte, Piano, Maestoso, and Sostinudo."
     section: services
     list:
@@ -36,10 +36,10 @@ en: &DEFAULT_EN
         #   </p>
 
   portfolio:
-    title: "Musical Groups"
+    title: "Musical Affiliations"
     text: "Thought knows no rest note, and passion never reaches its final bar."
     section: portfolio
-    closebutton: "Close Group"
+    closebutton: "Close"
 
 
   about:
@@ -80,11 +80,13 @@ en: &DEFAULT_EN
              class=avatar
              style="width:25%; max-width:240px;">
         <p class="about-text">
-          I am a third-year undergraduate student at <strong>Yuanpei College, Peking University</strong>.
-          My research interests span scientific machine learning—especially operator learning—
-          together with relativistic quantum field theory and the interpretation of quantum mechanics.
-          As a visiting student in the <strong>van Dijk Lab at Yale</strong>, I am working on Learning
-          Operator with Large Language Models (LOLL) from August 2024.
+          I am a fourth-year undergraduate at Yuanpei College, Peking University. 
+          Trained in piano for over fifteen years, I began studying both piano and conducting with Conductor Yujue Ji at the age of ten. 
+          I currently serve as conductor of the Symphony Orchestra of the Student Strings Association, the Yuanpei Acoustic Chamber Choir, and the Retirees Choir at Peking University, 
+          and I perform actively as a pianist with the Peking University Piano Association. 
+          My musical interests center on the German-Austrian classical tradition and nineteenth-century Romanticism; 
+          my foremost composers are Ludwig van Beethoven, Gustav Mahler, and Richard Strauss. 
+          I am also a regular attendee at the National Centre for the Performing Arts (NCPA), where I frequently hear leading classical performances.
         </p>
       </div>
     section: about
