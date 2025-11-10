@@ -1,5 +1,5 @@
 ---
-title: Time-Adaptive Operator Learning via Neural Taylor Expansion
+title: Symphony Orchestra of the Student Strings Association
 subtitle: TANTE (Time-Adaptive Transformer with Neural Taylor Expansion) is a new operator-learning framework for time-dependent PDEs that uses neural Taylor expansion to make accurate, continuous-time predictions with adaptive step sizes, improving both accuracy and efficiency over fixed-step methods.
 image: assets/img/paper/tante_video.gif
 alt: tante video

@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-users
   
       - title: "Pianist"
-        icon: fas fa-piano
+        icon: 🎹
         # desc: |-
         #   <p class="text-left">
         #     111.
