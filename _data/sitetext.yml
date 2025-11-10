@@ -76,12 +76,12 @@ en: &DEFAULT_EN
       
       <div class="clearfix">
         <img src="assets/img/head.jpg"
-             alt="Zaki Wu"
+             alt="Zhikai Wu"
              class=avatar
              style="width:25%; max-width:240px;">
         <p class="about-text">
           I am a fourth-year undergraduate at Yuanpei College, Peking University. 
-          Trained in piano for over fifteen years, I began studying both piano and conducting with Conductor Yujue Ji at the age of ten. 
+          Trained in piano for over fifteen years, I began studying both piano and conducting with Conductor <a href="https://www.facebook.com/yujue.ji/" target="_blank" rel="noopener noreferrer">Yujue Ji</a> at the age of ten. 
           I currently serve as conductor of the Symphony Orchestra of the Student Strings Association, the Yuanpei Acoustic Chamber Choir, and the Retirees Choir at Peking University, 
           and I perform actively as a pianist with the Peking University Piano Association. 
           My musical interests center on the German-Austrian classical tradition and nineteenth-century Romanticism; 
