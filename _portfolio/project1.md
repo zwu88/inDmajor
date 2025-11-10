@@ -6,7 +6,7 @@ alt: "Symphony Orchestra on stage"
 
 caption:
   title: Symphony Orchestra of SAPU
-  subtitle: Conductor, since Oct 2022.
+  subtitle: Orchestra Conductor, since Oct 2022.
   thumbnail: assets/img/affiliation/black_so.jpg
 ---
 
@@ -44,9 +44,9 @@ The orchestra is currently led by conductor **Zhikai Wu**. It performs regularly
 
 {:.text-left}
 - **[2025/10]** Began rehearsals for *Beethoven: Violin Concerto in D major* (soloist: Weiduo Kong).
-- **[2025/5]** Conducted *Mendelssohn: Violin Concerto in E Minor, etc.* (soloist: Shiyuan Wang).
-- **[2024/7]** Appointed President of SAPU.
-- **[2024/5]** Conducted *Beethoven: Symphony No. 6 in F major, etc.* .
-- **[2023/7]** Appointed Director of SAPU’s Performance Department.
-- **[2023/6]** Conducted *Rachmaninoff: Piano Concerto No. 2 in C minor, etc.* (soloist: Ziyu Cai).
+- **[2025/05]** Conducted *Mendelssohn: Violin Concerto in E Minor, etc.* (soloist: Shiyuan Wang).
+- **[2024/07]** Appointed President of SAPU.
+- **[2024/05]** Conducted *Beethoven: Symphony No. 6 in F major, etc.* .
+- **[2023/07]** Appointed Director of SAPU’s Performance Department.
+- **[2023/06]** Conducted *Rachmaninoff: Piano Concerto No. 2 in C minor, etc.* (soloist: Ziyu Cai).
 - **[2022/10]** Appointed Conductor of the Symphony Orchestra.
