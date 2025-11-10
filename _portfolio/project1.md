@@ -1,18 +1,18 @@
 ---
-title: Symphony Orchestra of the Student Strings Association
-subtitle: TANTE (Time-Adaptive Transformer with Neural Taylor Expansion) is a new operator-learning framework for time-dependent PDEs that uses neural Taylor expansion to make accurate, continuous-time predictions with adaptive step sizes, improving both accuracy and efficiency over fixed-step methods.
-image: assets/img/paper/tante_video.gif
-alt: tante video
+title: "Conductor, Symphony Orchestra — Student Strings Association of Peking University"
+subtitle: Serving as conductor since Oct 2022. 
+image: assets/img/affiliation/rsp_so.jpg
+alt: "Symphony Orchestra on stage" 
 
 caption:
-  title: TANTE (May 19, 2025)
-  subtitle: Time-Adaptive Operator Learning via Neural Taylor Expansion. (Operator Learning, Scientific Machine Learning, PDEs)
-  thumbnail: assets/img/paper/tante_video_vertical.gif
+  title: Symphony Orchestra of SAPU
+  subtitle: Conductor, since Oct 2022.
+  thumbnail: assets/img/affiliation/black_so.jpg
 ---
 
 
 
-## 🔎 Abstract
+## 🧱 Student Strings Association of Peking University (SAPU)
 
 <style>
   .about { text-align: left; } 
@@ -22,30 +22,28 @@ caption:
 </style>
 
 <p class="about">
-Operator learning for time-dependent partial differential equations (PDEs) has seen rapid progress in recent years, enabling efficient approximation of complex spatiotemporal dynamics. However, most existing methods rely on fixed time step sizes during rollout, which limits their ability to adapt to varying temporal complexity and often leads to error accumulation. To address this gap, we propose the Time-Adaptive Transformer with Neural Taylor Expansion (TANTE), a novel operator-learning framework that produces continuous-time predictions with adaptive step sizes. TANTE predicts future states by performing a Taylor expansion at the current state, where neural networks learn both the higher-order temporal derivatives and the local radius of convergence. This allows the model to dynamically adjust its rollout based on the local behavior of the solution, thereby reducing cumulative error and improving computational efficiency. We demonstrate the effectiveness of TANTE across a wide range of PDE benchmarks, achieving superior accuracy and adaptability compared to fixed-step baselines, delivering accuracy gains of 10-50% and speed-ups of 30-80% at inference.
+The Student Strings Association of Peking University (SAPU) is a leading student organization that brings together musicians and enthusiasts across campus. SAPU provides a platform for outstanding string, wind, brass, and percussion players to collaborate; offers foundational courses for beginners; and fosters partnerships with external organizations. Since its founding, SAPU has been recognized repeatedly as an “Outstanding Student Association” at Peking University and maintains strong visibility both on campus and beyond.
 </p>
 
-## 🧱 Pipeline
+## 🔎 Symphoney Orchestra
 
-<p align="center"> <img src="assets/img/paper/tante_pipeline.jpg" width="88%"> </p>
+<p align="center"> <img src="assets/img/affiliation/full_so.jpg" width="90%"> </p>
 
-<p class="about">
-Time-Adaptive Transformer with Neural Taylor Expansion (TANTE). Our framework enables continuous-time prediction with dynamically adjusted step sizes based on local temporal complexity. TANTE generates forecasts by summing the predicted derivatives as a Taylor series within the confidence interval.
-</p>
+The Symphony Orchestra was formed based on SAPU’s Performance Department and actively recruits accomplished string, wind, brass, and percussion players from both inside and outside the university. The ensemble welcomes musicians with established performance skills and typically maintains a roster of about 50 members each academic year.
 
-## 🏆 Main Results
+Since its inception, the orchestra has embraced openness, artistic excellence, and exploratory spirit—bringing like-minded musicians together to pursue higher artistic standards, new concert formats, and diverse musical styles—while promoting classical music on and off campus.
 
-<p align="center"> <img src="assets/img/paper/tante_table.jpg" width="90%"> </p>
-
-{: .text-justify } 
-> L2RE (↓ lower is better) of rollouts on *T'* time points on four benchmarks (*TR*, *AM*, *VF*, and *RB*). Results are divided into three parts based on different model sizes. In each part, the best results are **bolded** and the second-best results are **underlined**. We **highlight** the globally best results using **blue** and mark our TANTE models with **red font**.
+The orchestra is currently led by conductor **Zhikai Wu**. It performs regularly at SAPU’s annual concerts and operates on a mature “audition–rehearsal–performance” cycle that emphasizes musical detail and continuous growth, presenting high-quality programs year after year.
 
 ---
 
+## 🏆 Timeline
+
 {:.text-left}
-- Date: May 19, 2025
-- Paper: [TANTE: Time-Adaptive Operator Learning via Neural Taylor Expansion](http://arxiv.org/abs/2502.08574)
-- Code: [Github Repo of TANTE](https://github.com/zwu88/TANTE)
-- Authors: **Zhikai Wu**, Sifan Wang, Shiyang Zhang, Sizhuang He, Min Zhu, Anran Jiao, Lu Lu, David van Dijk
-- Laboratory: [van Dijk Lab @Yale](https://www.vandijklab.org)
-- Previous Project: [COAST: Intelligent Time-Adaptive Neural Operators](https://arxiv.org/abs/2502.08574v1) (legacy)
+- **[Oct 2025]** Began rehearsals for *Beethoven: Violin Concerto in D major* (soloist: Weiduo Kong).
+- **[May 2025]** Conducted *Mendelssohn: Violin Concerto in E Minor, etc.* (soloist: Shiyuan Wang).
+- **[Jul 2024]** Appointed President of SAPU.
+- **[May 2024]** Conducted *Beethoven: Symphony No. 6 in F major, etc.* .
+- **[Jul 2023]** Appointed Director of SAPU’s Performance Department.
+- **[Jun 2023]** Conducted *Rachmaninoff: Piano Concerto No. 2 in C minor, etc.* (soloist: Ziyu Cai).
+- **[Oct 2022]** Appointed Conductor of the Symphony Orchestra.

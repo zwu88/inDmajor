@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Orchestra Conductor"
-        icon: fas fa-music
+        icon: fas fa-users
         
       - title: "Chorus Conductor"
-        icon: fas fa-users
+        icon: fas fa-microphone
   
       - title: "Pianist"
-        icon: 🎹
+        icon: fas fa-music
         # desc: |-
         #   <p class="text-left">
         #     111.
