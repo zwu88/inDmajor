@@ -1,18 +1,35 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
-alt: 
+title: "Conductor, Yuanpei Acoustic Chamber Choir"
+subtitle: Serving as Pianist, Director and Piano Instructor, since Sep 2022.
+image: assets/img/affiliation/black_yp.jpg
+alt: Yuanpei Acoustic Chamber Choir
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Piano Association of Peking University
+  subtitle: Pianist of Performance Department, since Sep 2022.
+  thumbnail: assets/img/affiliation/rsp_yp.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+## 🧱 Yuanpei Acoustic Chamber Choir
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+<style>
+  .about { text-align: left; } 
+  @media (min-width: 768px) {
+    .about { text-align: justify; }
+  }
+</style>
 
+<p class="about">
+Founded in January 2024, the Yuanpei Acoustic Chamber Choir (YACC) is a student- and alumni-led ensemble of more than 40 singers from Yuanpei College. The choir’s leadership includes vocal instructors, and instrumental instructors, and the principal conductor (**Zhikai Wu**); several members also support production and administrative functions. 
+<br><br>
+YACC’s repertoire spans contemporary works with refined musical ideas as well as beloved classics. Since its founding, the choir has presented two annual concert series in Peking University Centennial Hall and appeared on stages across and beyond campus, becoming a vibrant contributor to the College’s arts landscape.
+</p>
+---
+
+## 🏆 Timeline
+
+{:.text-left}
+- **[2025/05]** Conducted the concert series *For the Search of a Star*.
+- **[2024/12]** Conducted the inter-university chorus competition (1st place overall).
+- **[2024/06]** Conducted the concert series *Voices of Oceans*.
+- **[2024/01]** Appointed Conductor of YACC.
+- **[2023/12]** Co-led the founding of the Yuanpei Acoustic Chamber Choir. (YACC).

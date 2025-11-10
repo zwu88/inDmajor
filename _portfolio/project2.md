@@ -1,13 +1,13 @@
 ---
 title: "Conductor, Yuanpei Acoustic Chamber Choir"
 subtitle: Serving as conductor since Jan 2024.
-image: assets/img/affiliation/black_yp.jpg
+image: assets/img/affiliation/rsp_yp.jpg
 alt: Yuanpei Acoustic Chamber Choir
 
 caption:
   title: Yuanpei Acoustic Chamber Choir
   subtitle: Chorus Conductor, since Jan 2024.
-  thumbnail: assets/img/affiliation/rsp_yp.jpg
+  thumbnail: assets/img/affiliation/black_yp.jpg
 ---
 ## 🧱 Yuanpei Acoustic Chamber Choir
 
