@@ -10,8 +10,6 @@ caption:
   thumbnail: assets/img/affiliation/black_so.jpg
 ---
 
-
-
 ## 🧱 Student Strings Association of Peking University (SAPU)
 
 <style>
@@ -29,21 +27,26 @@ The Student Strings Association of Peking University (SAPU) is a leading student
 
 <p align="center"> <img src="assets/img/affiliation/full_so.jpg" width="90%"> </p>
 
+<p class="about">
 The Symphony Orchestra was formed based on SAPU’s Performance Department and actively recruits accomplished string, wind, brass, and percussion players from both inside and outside the university. The ensemble welcomes musicians with established performance skills and typically maintains a roster of about 50 members each academic year.
+</p>
 
+<p class="about">
 Since its inception, the orchestra has embraced openness, artistic excellence, and exploratory spirit—bringing like-minded musicians together to pursue higher artistic standards, new concert formats, and diverse musical styles—while promoting classical music on and off campus.
+</p>
 
+<p class="about">
 The orchestra is currently led by conductor **Zhikai Wu**. It performs regularly at SAPU’s annual concerts and operates on a mature “audition–rehearsal–performance” cycle that emphasizes musical detail and continuous growth, presenting high-quality programs year after year.
-
+</p>
 ---
 
 ## 🏆 Timeline
 
 {:.text-left}
-- **[Oct 2025]** Began rehearsals for *Beethoven: Violin Concerto in D major* (soloist: Weiduo Kong).
-- **[May 2025]** Conducted *Mendelssohn: Violin Concerto in E Minor, etc.* (soloist: Shiyuan Wang).
-- **[Jul 2024]** Appointed President of SAPU.
-- **[May 2024]** Conducted *Beethoven: Symphony No. 6 in F major, etc.* .
-- **[Jul 2023]** Appointed Director of SAPU’s Performance Department.
-- **[Jun 2023]** Conducted *Rachmaninoff: Piano Concerto No. 2 in C minor, etc.* (soloist: Ziyu Cai).
-- **[Oct 2022]** Appointed Conductor of the Symphony Orchestra.
+- **[2025/10]** Began rehearsals for *Beethoven: Violin Concerto in D major* (soloist: Weiduo Kong).
+- **[2025/5]** Conducted *Mendelssohn: Violin Concerto in E Minor, etc.* (soloist: Shiyuan Wang).
+- **[2024/7]** Appointed President of SAPU.
+- **[2024/5]** Conducted *Beethoven: Symphony No. 6 in F major, etc.* .
+- **[2023/7]** Appointed Director of SAPU’s Performance Department.
+- **[2023/6]** Conducted *Rachmaninoff: Piano Concerto No. 2 in C minor, etc.* (soloist: Ziyu Cai).
+- **[2022/10]** Appointed Conductor of the Symphony Orchestra.

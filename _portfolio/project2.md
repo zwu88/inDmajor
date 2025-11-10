@@ -1,6 +1,6 @@
 ---
-title: Predicting Microbial Community Productivity Based on Genomic Sequences
-subtitle: GCPNet leverages genome-derived metabolic interaction graphs and graph neural networks to forecast community-level productivity, achieving state-of-the-art accuracy and interpretability.
+title: "Conductor, Yuanpei Acoustic Chamber Choir"
+subtitle: Serving as conductor since Mar 2024.
 image: assets/img/paper/gcpnet_pipeline.jpg
 alt: GCPNet pipeline
 
