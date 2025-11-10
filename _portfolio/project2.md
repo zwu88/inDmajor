@@ -30,6 +30,6 @@ YACC’s repertoire spans contemporary works with refined musical ideas as well 
 {:.text-left}
 - **[2025/05]** Conducted the concert series *For the Search of a Star*.
 - **[2024/12]** Conducted the inter-university chorus competition (1st place overall).
-- **[2024/06]** Conducted the concert series *Voices of Oceans*.
+- **[2024/06]** Conducted the concert series [*Voices of Oceans*](https://www.bilibili.com/video/BV1Uyvre2ESh?vd_source=a3c14da8165e63e18dffb702b8b4d263).
 - **[2024/01]** Appointed Conductor of YACC.
-- **[2023/12]** Co-led the founding of the Yuanpei Acoustic Chamber Choir. (YACC).
+- **[2023/12]** Co-led the founding of the Yuanpei Acoustic Chamber Choir (YACC).

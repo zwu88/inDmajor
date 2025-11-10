@@ -1,15 +1,15 @@
 ---
-title: "Conductor, Yuanpei Acoustic Chamber Choir"
+title: "Pianist, Piano Association of Peking University"
 subtitle: Serving as Pianist, Director and Piano Instructor, since Sep 2022.
-image: assets/img/affiliation/black_yp.jpg
-alt: Yuanpei Acoustic Chamber Choir
+image: assets/img/affiliation/rep_piano.jpg
+alt: Pianist
 
 caption:
   title: Piano Association of Peking University
   subtitle: Pianist of Performance Department, since Sep 2022.
-  thumbnail: assets/img/affiliation/rsp_yp.jpg
+  thumbnail: assets/img/affiliation/black_piano.jpg
 ---
-## 🧱 Yuanpei Acoustic Chamber Choir
+## 🧱 Piano Association of Peking University
 
 <style>
   .about { text-align: left; } 
@@ -19,17 +19,16 @@ caption:
 </style>
 
 <p class="about">
-Founded in January 2024, the Yuanpei Acoustic Chamber Choir (YACC) is a student- and alumni-led ensemble of more than 40 singers from Yuanpei College. The choir’s leadership includes vocal instructors, and instrumental instructors, and the principal conductor (**Zhikai Wu**); several members also support production and administrative functions. 
-<br><br>
-YACC’s repertoire spans contemporary works with refined musical ideas as well as beloved classics. Since its founding, the choir has presented two annual concert series in Peking University Centennial Hall and appeared on stages across and beyond campus, becoming a vibrant contributor to the College’s arts landscape.
+Founded in February 2004, the Piano Association of Peking University is a student-led organization dedicated to advancing piano performance on campus and cultivating a vibrant musical community. The Association promotes artistic excellence through concerts, seminars, and peer instruction open to all students with an interest in piano.
 </p>
 ---
 
 ## 🏆 Timeline
 
 {:.text-left}
-- **[2025/05]** Conducted the concert series *For the Search of a Star*.
-- **[2024/12]** Conducted the inter-university chorus competition (1st place overall).
-- **[2024/06]** Conducted the concert series *Voices of Oceans*.
-- **[2024/01]** Appointed Conductor of YACC.
-- **[2023/12]** Co-led the founding of the Yuanpei Acoustic Chamber Choir. (YACC).
+- **[2025/06]** Performed as pianist in the [Graduate Concert](https://www.bilibili.com/video/BV1mYMQzcEuA?p=13&vd_source=a3c14da8165e63e18dffb702b8b4d263).
+- **[2023/11]** Performed as pianist in the annual [Klavio Concert](https://www.bilibili.com/video/BV1Si4y1H7NF/?p=17&vd_source=a3c14da8165e63e18dffb702b8b4d263).
+- **[2023/10]** Served as Piano Instructor for Advanced Piano Lessons.
+- **[2023/06]** Appointed Director of the Performance Department.
+- **[2023/01]** Appointed Artistic Director.
+- **[2022/09]** Admitted to the Performance Department as a pianist.
