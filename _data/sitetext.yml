@@ -120,7 +120,7 @@ en: &DEFAULT_EN
     events:
       - title: "Piano Trio, Op. 38 (Beethoven, Ludwig van)"
         year: "Jun 15 2025"
-        desc: "Performed with Clarinetist Yuqian Zeng and bassoonist Fengyi Zhang."
+        desc: "Performed with Clarinetist Yuqian Zeng and Bassoonist Fengyi Zhang."
         image: assets/img/timeline/grad_25.jpg
         alt:
       - title: "Violin Concerto, Op.64 (Mendelssohn, Felix)"
@@ -130,7 +130,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Concert: For the Search of a Star"
         year: "May 18 2025"
-        desc: "Conducted the Yuanpei Acoustic Chamber Choir."
+        desc: "Conducted the YACC."
         image: assets/img/timeline/yacc_25.jpg
         alt:
       - title: "Chorus Competition (1st place)"
