@@ -118,46 +118,52 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
+      - title: "Piano Trio, Op. 38 (Beethoven, Ludwig van)"
+        year: "Jun 15 2025"
+        desc: "Performed with Clarinetist Yuqian Zeng and bassoonist Fengyi Zhang."
+        image: assets/img/timeline/grad_25.jpg
+        alt:
       - title: "Violin Concerto, Op.64 (Mendelssohn, Felix)"
-        year: "May 25 2025, Peking Univ."
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+        year: "May 25 2025"
+        desc: "Conducted the Symphony Orchestra of the Student Strings Association, with soloist Shiyuan Wang."
+        image: assets/img/timeline/men_25.jpg
         alt:
-      - title: "TANTEv2 Preprint released"
-        year: "May 19 2025, Peking Univ."
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Concert: *For the Search of a Star*"
+        year: "May 18 2025"
+        desc: "Conducted the Yuanpei Acoustic Chamber Choir."
+        image: assets/img/timeline/yacc_25.jpg
         alt:
-      - title: "Experiments of TANTEv2 completed"
-        year: "May 4 2025, Istanbul"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Presentation at Lu Lab @Yale"
-        year: "Apr 2 2025, Beijing (Home)"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Chorus Competition (1st place)"
+        year: "Dec 8 2024"
+        desc: "Conducted the YACC with the Yuanpei Freshman Chorus to win first place in the inter-university chorus competition."
+        image: assets/img/timeline/129_24.jpg
+        alt: 
+      - title: "Appointed Conductor of the Retirees Choir, Peking University"
+        year: "Oct 15 2024"
+        desc: "Served as the conductor of Retirees Choir as a paid position."
+        image: assets/img/timeline/retir_24.jpg
         alt:
-      - title: "Geo-Diff Project started"
-        year: "Mar 14 2025, Peking Univ."
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Concert: *Voices of Oceans*"
+        year: "Jun 1 2024"
+        desc: "Conducted the Yuanpei Acoustic Chamber Choir."
+        image: assets/img/timeline/yacc_24.jpg
         alt:
-      - title: "TANTEv1 Preprint released"
-        year: "Feb 16 2025, Beijing (Home)"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Symphony No.6 in F major, Op.68 'Pastoral' (Beethoven, Ludwig van)"
+        year: "May 26 2024"
+        desc: "Conducted the Symphony Orchestra of the Student Strings Association."
+        image: assets/img/timeline/bee6_24.jpg
         alt:
-        # you can enforce the alignment
-        align: right
-      - title: "Main experiments of TANTEv1 completed"
-        year: "Jan 22 2025, Singapore"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "Eight Pieces for Clarinet, Cello and Piano, Op.83 (Bruch, Max)"
+        year: "Dec 9 2023"
+        desc: "Performed with Clarinetist Yuqian Zeng and Cellist Jianwen Zhou."
+        image: assets/img/timeline/bruch_24.jpg
         alt:
-      
-      
-    end: "Be Part <br> of My <br> Story!"
+      - title: "Piano Concerto No.2 in C minor, Op.18 (Rachmaninoff, Sergei)"
+        year: "Jun 25 2023"
+        desc: "Conducted the Symphony Orchestra of the Student Strings Association, with soloist Ziyu Cai."
+        image: assets/img/timeline/r2_23.jpg
+        alt:
+    end: "Contact me <br> to hear more <br> stories!"
 
   # team:
   #   title: "Publications"

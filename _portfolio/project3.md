@@ -1,7 +1,7 @@
 ---
 title: "Pianist, Piano Association of Peking University"
 subtitle: Serving as Pianist, Director and Piano Instructor, since Sep 2022.
-image: assets/img/affiliation/rep_piano.jpg
+image: assets/img/affiliation/rsp_piano.jpg
 alt: Pianist
 
 caption:
