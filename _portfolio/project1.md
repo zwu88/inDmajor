@@ -36,7 +36,7 @@ Since its inception, the orchestra has embraced openness, artistic excellence, a
 </p>
 
 <p class="about">
-The orchestra is currently led by conductor **Zhikai Wu**. It performs regularly at SAPU’s annual concerts and operates on a mature “audition–rehearsal–performance” cycle that emphasizes musical detail and continuous growth, presenting high-quality programs year after year.
+The orchestra is currently led by conductor <strong>Zhikai Wu</strong>. It performs regularly at SAPU’s annual concerts and operates on a mature “audition–rehearsal–performance” cycle that emphasizes musical detail and continuous growth, presenting high-quality programs year after year.
 </p>
 ---
 
