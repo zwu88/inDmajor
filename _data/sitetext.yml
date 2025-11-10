@@ -151,12 +151,12 @@ en: &DEFAULT_EN
       - title: "Symphony No.6 in F major, Op.68 'Pastoral' (Beethoven, Ludwig van)"
         year: "May 26 2024"
         desc: "Conducted the Symphony Orchestra of the Student Strings Association."
-        image: assets/img/timeline/bee6_24.jpg
+        image: assets/img/timeline/bee6_24.JPG
         alt:
       - title: "Eight Pieces for Clarinet, Cello and Piano, Op.83 (Bruch, Max)"
         year: "Dec 9 2023"
         desc: "Performed with Clarinetist Yuqian Zeng and Cellist Jianwen Zhou."
-        image: assets/img/timeline/bruch_24.jpg
+        image: assets/img/timeline/bruch_23.jpg
         alt:
       - title: "Piano Concerto No.2 in C minor, Op.18 (Rachmaninoff, Sergei)"
         year: "Jun 25 2023"
