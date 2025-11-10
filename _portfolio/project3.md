@@ -6,7 +6,7 @@ alt: Pianist
 
 caption:
   title: Piano Association of Peking University
-  subtitle: Pianist of Performance Department, since Sep 2022.
+  subtitle: Pianist, since Sep 2022.
   thumbnail: assets/img/affiliation/black_piano.jpg
 ---
 ## 🧱 Piano Association of Peking University
