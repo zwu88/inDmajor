@@ -128,7 +128,7 @@ en: &DEFAULT_EN
         desc: "Conducted the Symphony Orchestra of the Student Strings Association, with soloist Shiyuan Wang."
         image: assets/img/timeline/men_25.jpg
         alt:
-      - title: "Concert: *For the Search of a Star*"
+      - title: "Concert: For the Search of a Star"
         year: "May 18 2025"
         desc: "Conducted the Yuanpei Acoustic Chamber Choir."
         image: assets/img/timeline/yacc_25.jpg
@@ -143,7 +143,7 @@ en: &DEFAULT_EN
         desc: "Served as the conductor of Retirees Choir as a paid position."
         image: assets/img/timeline/retir_24.jpg
         alt:
-      - title: "Concert: *Voices of Oceans*"
+      - title: "Concert: Voices of Oceans"
         year: "Jun 1 2024"
         desc: "Conducted the Yuanpei Acoustic Chamber Choir."
         image: assets/img/timeline/yacc_24.jpg
