@@ -18,7 +18,7 @@ caption:
   }
 </style>
 
-<p class="about">
+<p class="about" markdown="1">
 Founded in January 2024, the Yuanpei Acoustic Chamber Choir (YACC) is a student- and alumni-led ensemble of more than 40 singers from Yuanpei College. The choir’s leadership includes vocal instructors, and instrumental instructors, and the principal conductor (**Zhikai Wu**); several members also support production and administrative functions. 
 <br><br>
 YACC’s repertoire spans contemporary works with refined musical ideas as well as beloved classics. Since its founding, the choir has presented two annual concert series in Peking University Centennial Hall and appeared on stages across and beyond campus, becoming a vibrant contributor to the College’s arts landscape.
